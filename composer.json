@@ -1,5 +1,5 @@
 {
-    "name": "guzzlehttp/retry-subscriber",
+    "name": "bazen/retry-subscriber",
     "description": "Retries failed HTTP requests using customizable retry strategies (Guzzle 4+)",
     "homepage": "http://guzzlephp.org/",
     "keywords": ["retry", "http", "guzzle"],
